@@ -16,3 +16,21 @@ See Documentation/00-INDEX for a list of what is contained in each file.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+Features
+==========
+
+[*] Backport CGROUPS V2
+[*] Implement Freezer
+[*] rslib updates
+[*] Exfat from mainline (maintained by arter97)
+[*] Upstreamed inline with Google common android-4.14-stable
+[*] Last CAF changes
+
+
+
+Credits:
+[*] xawlw for etherius based kernel (i dont have the device so i need working base)
+[*] My testers who wanted this
+[*] Kdrag0n for some good kernel optimizations
+[*] Sultan(kerneltoast) for awesome work on kernel's
